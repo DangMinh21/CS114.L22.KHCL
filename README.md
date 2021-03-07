@@ -19,9 +19,9 @@
 <a name="thanhvien"></a>
 | STT | Họ tên | MSSV | GitHub |
 | :---: | --- | --- | --- |
-| 1 | Đặng văn Minh | 19521832 | [DangMinh21](https://github.com/DangMinh21/CS114.L22.KHCL) |
-| 2 | Tạ Huỳnh Đức Huy | 19521634 |  |
-| 3 | Trang Trường Giang | 19521450 |  |
+| 1 | Đặng văn Minh | 19521832 | [DangVanMinh](https://github.com/DangMinh21/CS114.L22.KHCL) |
+| 2 | Tạ Huỳnh Đức Huy | 19521634 | [TaHuynhDucHuy](https://github.com/duchuy3007) |
+| 3 | Trang Trường Giang | 19521450 | [TrangTruongGiang](https://github.com/19521450) |
 
 ## Quá trình hoạt động
 <a name="hoatdong"></a>
@@ -30,5 +30,6 @@
 * Tăng tốc từ từ
 
 ## Đồ án
+<a name="doan"></a>
 
 # HẾT
