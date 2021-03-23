@@ -28,6 +28,10 @@
 ### Tuần 1
 * Warm up
 * Tăng tốc từ từ
+### Tuần 2
+* chú ý thời gian chạy chương trình
+### Tuần 3
+* Ôn tiếp cấu trúc dữ liệu
 
 ## Đồ án
 <a name="doan"></a>
