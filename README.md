@@ -21,16 +21,8 @@
 | 2 | Tạ Huỳnh Đức Huy | 19521634 | [TaHuynhDucHuy](https://github.com/duchuy3007) |
 | 3 | Trang Trường Giang | 19521450 | [TrangTruongGiang](https://github.com/19521450) |
 <a name="hoatdong"></a>
-## Quá trình hoạt động
-### Tuần 1
-* Warm up
-* Tăng tốc từ từ
-### Tuần 2
-* chú ý thời gian chạy chương trình
-### Tuần 3
-* Ôn tiếp cấu trúc dữ liệu
+## Bài tập quá trình
+
 <a name="doan"></a>
-## Đồ án
+## Đồ án cuối kì
 
-
-# HẾT
