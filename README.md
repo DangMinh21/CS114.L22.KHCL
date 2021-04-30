@@ -22,7 +22,9 @@
 <a name="hoatdong"></a>
 ## Bài tập quá trình
 [ví dụ có thể ap dụng Machine Learning](https://github.com/DangMinh21/CS114.L22.KHCL/tree/main/Vi%20du%20Machine%20Learning)
+
 [Hand-written digits recognition](https://github.com/DangMinh21/CS114.L22.KHCL/tree/main/hand-written%20digits%20recognition)
+
 [Ví dụ về bài toán regression trong thự tế](https://github.com/DangMinh21/CS114.L22.KHCL/tree/main/vi%20du%20regression)
 
 
