@@ -4,7 +4,6 @@
 * [Giới thiệu môn học](#gioithieu)
 * [Thành viên nhóm](#thanhvien)
 * [Quá trình hoạt động](#hoatdong)
-* [Đồ án](#doan)
 <a name="gioithieu"></a>
 ## Giới thiệu môn học
 * Tên môn học: Máy Học (Machine Learning)
@@ -22,7 +21,8 @@
 | 3 | Trang Trường Giang | 19521450 | [TrangTruongGiang](https://github.com/19521450) |
 <a name="hoatdong"></a>
 ## Bài tập quá trình
+[ví dụ có thể ap dụng Machine Learning](https://github.com/DangMinh21/CS114.L22.KHCL/tree/main/Vi%20du%20Machine%20Learning)
+[Hand-written digits recognition](https://github.com/DangMinh21/CS114.L22.KHCL/tree/main/hand-written%20digits%20recognition)
+[Ví dụ về bài toán regression trong thự tế](https://github.com/DangMinh21/CS114.L22.KHCL/tree/main/vi%20du%20regression)
 
-<a name="doan"></a>
-## Đồ án cuối kì
 
