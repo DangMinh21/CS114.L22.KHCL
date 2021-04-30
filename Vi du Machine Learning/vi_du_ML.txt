@@ -1,0 +1,29 @@
+Một số bài toán có thể giải quyết bằng Machine learning:
+1. Phân loại email spam
+Input: 1 Chuỗi trích xuất từ 1 email
+Output: Một số nguyên đại điện:
+	0 - email không phải email spam
+	1 - email là email spam
+- Training set: tập dữ liệu (x, y) với mỗi Example:
+	+ x(i): chuỗi kí tự
+	+ y(i): 0 hoặc 1   
+- Chú thích: bài toán trên thuộc bài toán phân loại(sụ thể  là 2 loại)(classification).
+
+
+2.  Nhận biết văn bản sử dụng ngôn ngữ gì.(đặt trong hoàn cảnh chỉ phân biệt 10 ngôn ngữ)
+Input: chuỗi văn bản
+Output: 1 số thuộc [0, 9] với mỗi số đại diện cho 1 ngôn ngữ.
+- Training set: tập dữ liệu (x, y) với mỗi Example:
+	+ x(i): chuỗi kí tự
+	+ y(i): 1 số trong đoạn [0, 9]
+- Chú thích: bài toán trên thuộc bài toán phân loại(sụ thể  là 10 loại)(classification).
+
+3. Phát hiện câu có sử dụng từ ngữ thô tục
+Input: một chuỗi kí tự 
+Output: 0 hoặc 1 với
+	+ 0 - câu bình thường
+	+ 1 - câu thô tục
+- Training set: tập dữ liệu (x, y) với mỗi Example:
+	+ x(i): chuỗi kí tự
+	+ y(i): 0 hoặc 1 
+- Chú thích: bài toán trên thuộc bài toán phân loại(sụ thể  là 2 loại)(classification).
