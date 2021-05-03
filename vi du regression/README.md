@@ -15,7 +15,7 @@
 ### Ví dụ 2: Dự đoán thời gian di chuyển.
 Ứng dụng: Google Maps
 * Input
-    *Tổng hợp vị trí của tất cả người dùng (Aggregate location data)
+    * Tổng hợp vị trí của tất cả người dùng (Aggregate location data)
     * Lịch sử giao thông tuyến đường trong quá khứ (Historical traffic patterns)
     * Dữ liệu chính thức địa phương ( đường một chiều, đèn đỏ…) (Local government data)
     * Thời gian di chuyển từ cộng đồng sử dụng (Real-time feedback from users)
@@ -33,4 +33,5 @@ Những loại thuật toán đã khiến Google trở thành ông hoàng như h
     * Thực hiện so sánh với những mẫu kết quả đã thu được với quãng đường tương tự trong quá khứ
     * Kết hợp xâu chuỗi ảnh 360 độ để đánh giá ( Đường hẹp, hầm hố…)
     * Kết hợp các dữ kiện.
+    
     https://www.makeuseof.com/tag/technology-explained-google-maps-work/
