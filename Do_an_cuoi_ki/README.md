@@ -3,7 +3,7 @@
 * Bài toán: 
     * Nhận diện chữ cái tiếng việt viết tay
     *  Bài toán thuộc loại bài toán phân loại
-    *  Bảng chữ cái việt nam có tổng cộng 29 chữ cái, trong đó có 12 chữ cái là nguyên âm, 5 dấu câu nên có tổng cộng 89 lớp($$29 + 12 * 5 = 89$$)
+    *  Bảng chữ cái việt nam có tổng cộng 29 chữ cái, trong đó có 12 chữ cái là nguyên âm, 5 dấu câu nên có tổng cộng 89 lớp($29 + 12 * 5 = 89$)
 * Input: 1 tấm ảnh có chứa 1 chữ cái tiếng việt viết tay
 * Output: chữ cái tương ướng với chữ trong tấm hình
 * vd:
